@@ -40,3 +40,8 @@ nb-configuration.xml
 .env
 /mvnw
 /mvnw.cmd
+/.mvn/wrapper/.gitignore
+/src/main/resources/application.properties
+/src/main/resources/META-INF/resources/index.html
+/.mvn/wrapper/maven-wrapper.properties
+/.mvn/wrapper/MavenWrapperDownloader.java
